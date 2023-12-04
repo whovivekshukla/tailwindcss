@@ -10,7 +10,7 @@ const HomeLayout = ({ children }) => {
           </Link>
         </div>
       </div>
-      <div>{children}</div>
+      <div className="pt-5">{children}</div>
     </div>
   );
 };
