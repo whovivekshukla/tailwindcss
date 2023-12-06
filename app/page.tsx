@@ -3,6 +3,7 @@ import Link from "next/link";
 const links = [
   { href: "/01-colors", text: "Colors" },
   { href: "/02-customizations", text: "Customizations" },
+  { href: "/03-typography", text: "Typography" },
 ];
 
 export default function Home() {
