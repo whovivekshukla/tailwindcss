@@ -4,10 +4,10 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base {
+/* @layer base {
   html {
     @apply text-black;
     font-family: 'Nunito Sans', sans-serif;
 
   }
-}
+} */
